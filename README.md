@@ -70,4 +70,30 @@ Identify revenues per region/store/product category/brand, and list of top custo
 
 # Insights & Possible Follow-Up Actions
 
-- 
+- 2018 had a significant drop in sales after April, resulting in the least profitable year so far, further analysis is required to find out the reason for such a drastic reduction in sales(for example, failed marketing campaigns, loss of certain sales reps, etc)
+
+![Image](https://github.com/user-attachments/assets/f467200a-a56e-4b93-9dd6-af99379b5c15)
+
+- Baldwin Bikes is consistently the highest in sales each year, we may want to do a further comparison of how they run differently from the other stores to see if any strategies can be implemented to help the profitability of other stores. 
+
+![Image](https://github.com/user-attachments/assets/51766535-0271-445e-ae96-ff0d62a0e9ec)
+
+- Mountain bikes have most of the share of sales and electric bikes are the least, depending on what direction the business decides, we can either provide a stronger marketing strategy for electric bikes or continue focusing on mountain bikes.
+
+![Image](https://github.com/user-attachments/assets/e6fb2b27-abc3-453b-9131-de7ca5b25f6a)
+
+- New York has the highest sales for bikes, we can do further analysis to find out why. Whether it's a specific demographic in New York that is more present so we can do targeted marketing in other regions, or it's just New York is more bike friendly so can decide on other strategies moving forward.
+
+![Image](https://github.com/user-attachments/assets/83063d08-d8d2-463b-ae23-0af542cf34b7)
+
+- By identifying the top customers, we can do an analysis of the demographics of top bike purchasers to create targeted marketing strategies and conduct targeted surveys to find out why they are willing to spend more on bikes.
+
+![Image](https://github.com/user-attachments/assets/92175232-67a4-4c1d-a515-bcb19e45ea92)
+
+- Marcelene Boyer & Venita Daniel are the top 2 leading sales reps by a significant margin, so the company should provide incentives for them to stay and share their sales strategies to the rest of the team.
+
+![Image](https://github.com/user-attachments/assets/79ce727c-143f-475a-8d05-0b6851caeeba)
+
+# Summary
+
+- From the insights above, it can be shown how the dashboard can be used to find further insights for the users/business, and depending on which direction to stakeholders decide to go, we can use the relationships between the data to do further analysis to suggest the best courses of action and form business strategies.
