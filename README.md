@@ -3,7 +3,7 @@ Bike-Store-Portfolio-Project
 A data analytics project using dummy data(SQL, Excel, Tableau)
 # Bike Store
 
-![Image](https://github.com/user-attachments/assets/13f24a05-b101-4957-8fc0-eba4b57445d5)
+![Image](https://github.com/user-attachments/assets/6ed911e3-fe3f-4eec-9ebe-e0c39afd89d9)
 ![Image](https://github.com/user-attachments/assets/7fd127e9-0a8e-41cf-a729-dd74985ffe9e)
 
 ### Tableau dashboard link:
