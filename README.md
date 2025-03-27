@@ -20,7 +20,8 @@ https://public.tableau.com/app/profile/collin.christopher.see/viz/BikeStorePortf
 
 Identify condition of the sales activities and gain insights/trends happening over sales volumes
 over the 2016 to 2018 period. 
-Identify revenues per region/store/product category/brand, and list of top customers/sales reps.
+
+Identify revenues per region/store/product category/brand and list of top customers/sales reps.
 
 ### Steps to complete
 1. Collect and gather the data
